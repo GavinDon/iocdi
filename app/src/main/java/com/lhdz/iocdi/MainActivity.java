@@ -19,6 +19,8 @@ public class MainActivity extends Activity {
 
     private void volley_get() {
         String url = "http://www.imxiexie.com/Information/index.html";
+
+
         VolleyRequest.RequstGet(this, url, "test", new VolleyInterface(this, VolleyInterface.listener, VolleyInterface.errorListener) {
             @Override
             public void onMySuccess(String result) {
@@ -30,6 +32,7 @@ public class MainActivity extends Activity {
 //                Toast.makeText(MainActivity.this,error.toString(),Toast.LENGTH_LONG).show();
             }
         });
+
 
     }
 

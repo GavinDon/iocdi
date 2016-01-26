@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <root>
+        <student group="1" id="1">
+            <name>张三</name>
+            <sex>男</sex>
+            <age>18</age>
+            <email>zhangsan@163.com</email>
+            <birthday>1987-06-08</birthday>
+            <memo>好学生</memo>
+        </student>
+        <student group="2" id="2">
+            <name>李四</name>
+            <sex>女</sex>
+            <age>18</age>
+            <email>lisi@163.com</email>
+            <birthday>1987-06-08</birthday>
+            <memo>好学生</memo>
+        </student>
+        <student group="3" id="3">
+            <name>小王</name>
+            <sex>男</sex>
+            <age>18</age>
+            <email>xiaowang@163.com</email>
+            <birthday>1987-06-08</birthday>
+            <memo>好学生</memo>
+        </student>
+        <student group="4" id="4">
+            <name>小张</name>
+            <sex>男</sex>
+            <age>18</age>
+            <email>xiaozhang@163.com</email>
+            <birthday>1987-06-08</birthday>
+            <memo>好学生</memo>
+        </student>
+        <student group="5" id="5">
+            <name>小明</name>
+            <sex>男</sex>
+            <age>18</age>
+            <email>xiaoming@163.com</email>
+            <birthday>1987-06-08</birthday>
+            <memo>好学生</memo>
+        </student>
+    </root>
+
+
+</resources>
